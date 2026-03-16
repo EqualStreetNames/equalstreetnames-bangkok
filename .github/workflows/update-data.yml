@@ -24,4 +24,4 @@ jobs:
       contents: write
     secrets: inherit
     with:
-      city: bangkok
+      city: thailand/bangkok
