@@ -5,6 +5,7 @@ name,source,gender,wikidata,type
 ถนนเสรีไทย,wikidata,-,Q708957,way
 ถนนเสือป่า,wikidata,-,Q8000830,way
 ทางบูดาเปสต์,wikidata,-,Q1781,way
+ลานคนเมือง,wikidata,-,Q7112429,relation
 ถนนพิษณุโลก,wikidata,?,Q2035565;Q538919,way
 ถนนรัชดาภิเษก,wikidata,?,Q301290;Q6581521,way
 ถนนนราธิวาสราชนครินทร์,wikidata,F,Q466850,way
@@ -75,6 +76,7 @@ name,source,gender,wikidata,type
 ถนนประดิพัทธ์,wikidata,M,Q138675110,way
 ถนนประดิษฐ์มนูธรรม,wikidata,M,Q714934,way
 ถนนประเสริฐมนูกิจ,wikidata,M,Q13016727,way
+ถนนปั้น,wikidata,M,Q134289011,way
 ถนนผลาสินธุ์,wikidata,M,Q13016609,way
 ถนนพระพิทักษ์,wikidata,M,Q13017825,way
 ถนนพระพิพิธ,wikidata,M,Q13017863,way
@@ -124,10 +126,14 @@ name,source,gender,wikidata,type
 ถนนอโศก-ดินแดง,wikidata,M,Q855252,way
 ถนนอโศกมนตรี,wikidata,M,Q138675565,way
 ถนนเจ้าคำรบ,wikidata,M,Q13017707,way
+ถนนเจ้าคุณทหาร,wikidata,M,Q16141312,way
 "ถนนเฉลิมพระเกียรติ ร.9",wikidata,M,Q855252,way
 ถนนเพชรเกษม,wikidata,M,Q28912518,way
 ถนนเยาวราช,wikidata,M,Q6636215,way
 ถนนแจ้งวัฒนะ,wikidata,M,Q138676324,way
+ถนนแพร่งนรา,wikidata,M,Q6581590,way
+ถนนแพร่งภูธร,wikidata,M,Q16141004,way
+ถนนแพร่งสรรพศาสตร์,wikidata,M,Q13017843,way
 สะพานพระพุทธยอดฟ้า,wikidata,M,Q310992,way
 "สะพานพระราม 8",wikidata,M,Q248893,way
 ซอยแม้นศรี,config,F,,way
