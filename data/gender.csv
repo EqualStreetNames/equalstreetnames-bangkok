@@ -1,4 +1,5 @@
 name,source,gender,wikidata,type
+"Gulf of Thailand",wikidata,-,Q869,relation
 ถนนกรุงธนบุรี,wikidata,-,Q1115291,way
 ถนนกลันตัน,wikidata,-,Q185944,way
 ถนนเชียงใหม่,wikidata,-,Q233588,way
@@ -14,6 +15,7 @@ name,source,gender,wikidata,type
 "ถนนบรมราชชนนี (ทางขนาน)",wikidata,F,Q449433,way
 ถนนพระอาทิตย์,wikidata,F,Q467882,way
 ถนนพาหุรัด,wikidata,F,Q4842936,way
+ถนนมารีย์,wikidata,F,Q345,way
 ถนนราชินี,wikidata,F,Q467882,way
 ถนนวิภาวดีรังสิต,wikidata,F,Q6581644,way
 ถนนวิสุทธิกษัตริย์,wikidata,F,Q16139926,way
@@ -81,6 +83,7 @@ name,source,gender,wikidata,type
 ถนนผลาสินธุ์,wikidata,M,Q13016609,way
 ถนนพระพิทักษ์,wikidata,M,Q13017825,way
 ถนนพระพิพิธ,wikidata,M,Q13017863,way
+ถนนพระยาประสงค์,wikidata,M,Q25542828,way
 ถนนพระยาสุเรนทร์,wikidata,M,Q138683395,way
 "ถนนพระราม 9",wikidata,M,Q855252,way
 "ถนนพระรามที่ 1",wikidata,M,Q310992,way
@@ -100,6 +103,7 @@ name,source,gender,wikidata,type
 ถนนรามคำแหง,wikidata,M,Q349249,way
 ถนนรามบุตรี,wikidata,M,Q13017880,way
 ถนนรามอินทรา,wikidata,M,Q20561513,way
+ถนนวรจักร,wikidata,M,Q13017861,way
 ถนนวุฒากาศ,wikidata,M,Q97226376,way
 ถนนศรีธรรมาธิราช,wikidata,M,Q138675599,way
 ถนนศิริพงษ์,wikidata,M,Q13017870,way
