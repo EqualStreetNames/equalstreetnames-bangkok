@@ -1,5 +1,6 @@
 name,source,gender,wikidata,type
 "Gulf of Thailand",wikidata,-,Q869,relation
+"Sci Square",wikidata,-,Q13013520,way
 "คอนเซ็ปชัญ 10",wikidata,-,Q185606,way
 "คอนเซ็ปชัญ 11",wikidata,-,Q185606,way
 "คอนเซ็ปชัญ 12",wikidata,-,Q185606,way
@@ -7,10 +8,13 @@ name,source,gender,wikidata,type
 "คอนเซ็ปชัญ 5",wikidata,-,Q185606,way
 "คอนเซ็ปชัญ 6",wikidata,-,Q185606,way
 "คอนเซ็ปชัญ 8",wikidata,-,Q185606,way
+ซอยข้างวัดราชนัดดาราม,wikidata,-,Q1554856,way
 ซอยคลองถมปทุมคงคา,wikidata,-,Q16004200,way
 "ซอยคอนเซ็ปชัญ 1",wikidata,-,Q185606,way
 "ซอยคอนเซ็ปชัญ 3",wikidata,-,Q185606,way
 ซอยคาวบอย,wikidata,-,Q178521,way
+ซอยงามดูพลี,wikidata,-,Q7242,way
+"ซอยจรัญสนิทวงศ์ 23",wikidata,-,Q670887,way
 "ซอยจันทน์ 42",wikidata,-,Q100698879,way
 "ซอยจุฬาลงกรณ์ 1",wikidata,-,Q855730,way
 "ซอยจุฬาลงกรณ์ 10",wikidata,-,Q855730,way
@@ -58,6 +62,7 @@ name,source,gender,wikidata,type
 "ซอยบ้านดอกไม้ 2",wikidata,-,Q506,way
 "ซอยบ้านดอกไม้ 3",wikidata,-,Q506,way
 ซอยบ้านบาตร,wikidata,-,Q385743,way
+ซอยบ้านปลายเนิน,wikidata,-,Q7200579,way
 ซอยปทุมคงคา,wikidata,-,Q16004200,way
 ซอยผลิตผล,wikidata,-,Q11398090,way
 ซอยฝักไข่,wikidata,-,Q954226,way
@@ -66,6 +71,7 @@ name,source,gender,wikidata,type
 "ซอยมหาดเล็กหลวง 1",wikidata,-,Q2507561,way
 "ซอยมหาดเล็กหลวง 2",wikidata,-,Q2507561,way
 "ซอยมหาดเล็กหลวง 3",wikidata,-,Q2507561,way
+ซอยมะตูม,wikidata,-,Q234126,way
 ซอยมังกร,wikidata,-,Q7559,way
 ซอยมัสยิดฮารูณ,wikidata,-,Q85998738,way
 ซอยมิตรอนันต์,wikidata,-,Q491;Q205,way
@@ -84,6 +90,7 @@ name,source,gender,wikidata,type
 "ซอยศาลาแดง 2",wikidata,-,Q1128397,way
 ซอยศาลเจ้าพ่อเสือ,wikidata,-,Q6631976,way
 ซอยศาสนา,wikidata,-,Q9174,way
+ซอยศิริเจริญ,wikidata,-,Q1760011,way
 ซอยศิลปากร,wikidata,-,Q1209824,way
 ซอยสนามคลี,wikidata,-,Q134211,way
 ซอยสวนมะลิ,wikidata,-,Q82014,way
@@ -126,11 +133,20 @@ name,source,gender,wikidata,type
 "ซอยเจริญกรุง 58",wikidata,-,Q13023553,way
 "ซอยเจริญกรุง 59",wikidata,-,Q21089159;Q1970348,way
 "ซอยเจริญกรุง 63",wikidata,-,Q491,way
+"ซอยเจริญนคร 13",wikidata,-,Q329426,way
+"ซอยเจริญนคร 29",wikidata,-,Q2048319,way
+"ซอยเจริญนคร 29/2",wikidata,-,Q1760011,way
+"ซอยเจริญนคร 3",wikidata,-,Q8432;Q8386,way
+"ซอยเจริญนคร 31",wikidata,-,Q31821799,way
+"ซอยเจริญนคร 9",wikidata,-,Q10921868,way
 ซอยเจริญสุข,wikidata,-,Q7562091;Q8,way
 ซอยเทพหัสดิน,wikidata,-,Q111944083,way
 ซอยเทวีวรญาติ,wikidata,-,Q99441295,way
 "ซอยเพชรบุรี 3",wikidata,-,Q877546,way
 "ซอยเพชรบุรี 5",wikidata,-,Q13018791,way
+"ซอยเพชรเกษม 68",wikidata,-,Q9128;Q5283,way
+"ซอยเพชรเกษม 74",wikidata,-,Q929186,way
+"ซอยเพชรเกษม 80",wikidata,-,Q5283;Q897,way
 "ซอยเยาวราช 15",wikidata,-,Q715162,way
 "ซอยเยาวราช 21",wikidata,-,Q47003909,way
 "ซอยเยาวราช 23",wikidata,-,Q28877,way
@@ -155,13 +171,17 @@ name,source,gender,wikidata,type
 "ตรอกพันธจิตต์ 1",wikidata,-,Q215669,way
 "ตรอกมะขาม 2",wikidata,-,Q2391283,way
 ตรอกราชสีห์,wikidata,-,Q13019535,way
+ตรอกวัดราชนัดดา,wikidata,-,Q1554856,way
 ตรอกวัดอินทรวิหาร,wikidata,-,Q1545430,way
+ตรอกศิลป์,wikidata,-,Q735,way
 ตรอกสลักหิน,wikidata,-,Q42195,way
 ตรอกสะพานญวณ,wikidata,-,Q16481381,way
+ตรอกสาเก,wikidata,-,Q14677,way
 ตรอกหัวเม็ด,wikidata,-,Q215536,way
 ตรอกหิรัญ,wikidata,-,Q1368,way
 ตรอกโอเรียนเต็ล,wikidata,-,Q1631000,way
 ตรอกไก่แจ้,wikidata,-,Q244179,way
+ตรอกไข่,wikidata,-,Q93189,way
 ถนนกรุงธนบุรี,wikidata,-,Q1115291,way
 ถนนกรุงเกษม,wikidata,-,Q1536918,way
 ถนนกลันตัน,wikidata,-,Q185944,way
@@ -172,9 +192,11 @@ name,source,gender,wikidata,type
 ถนนคนเดินสยามสแควร์,wikidata,-,Q1856401,way
 ถนนคลองถมวัดพิเรนทร์,wikidata,-,Q97984652,way
 ถนนคอนแวนต์,wikidata,-,Q1128397,way
+ถนนจอมทอง,wikidata,-,Q1519293,way
 ถนนจักรวรรดิ์,wikidata,-,Q48349,way
 ถนนจักรีจรัณย์,wikidata,-,Q691928,way
 ถนนจักรเพชร,wikidata,-,Q13013055,way
+ถนนชิดลม,wikidata,-,Q8094,way
 ถนนดำรงรักษ์,wikidata,-,Q12893838;Q1043452,way
 ถนนดินสอ,wikidata,-,Q184053,way
 ถนนดินแดง,wikidata,-,Q622845,way
@@ -187,11 +209,14 @@ name,source,gender,wikidata,type
 ถนนทรงสวัสดิ์,wikidata,-,Q69883,way
 ถนนทรัพย์สิน,wikidata,-,Q751825,way
 ถนนทหาร,wikidata,-,Q8473,way
+"ถนนท่าเรือ 1",wikidata,-,Q6578896,way
+"ถนนท่าเรือ 2",wikidata,-,Q6578896,way
 ถนนท้ายวัง,wikidata,-,Q873769,way
 ถนนบูรพา,wikidata,-,Q13020601,way
 ถนนประชาธิปไตย,wikidata,-,Q7174,way
 ถนนปรินายก,wikidata,-,Q66458741,way
 ถนนปูนซิเมนต์ไทย,wikidata,-,Q1680777,way
+ถนนพญาไม้,wikidata,-,Q1302736,way
 ถนนพระจันทร์,wikidata,-,Q16304366,way
 ถนนพระยมมรรคา,wikidata,-,Q45097,way
 ถนนพระวรุณมรรคา,wikidata,-,Q1001037,way
@@ -199,6 +224,7 @@ name,source,gender,wikidata,type
 ถนนพรานนก,wikidata,-,Q16139509,way
 ถนนพลับพลาไชย,wikidata,-,Q99198041,way
 ถนนพหลโยธิน-ดินแดง,wikidata,-,Q301290;Q622845,way
+ถนนพัฒนาการ,wikidata,-,Q7562091,way
 ถนนมหาจักร,wikidata,-,Q2552262,way
 ถนนมหานคร,wikidata,-,Q200250,way
 ถนนมหาพฤฒาราม,wikidata,-,Q15735679,way
@@ -207,14 +233,19 @@ name,source,gender,wikidata,type
 ถนนมังกร,wikidata,-,Q7559,way
 ถนนมิตรพันธ์,wikidata,-,Q215669,way
 ถนนมิตรภาพไทย-จีน,wikidata,-,Q5100278,way
+ถนนมไหสวรรย์,wikidata,-,Q141361089,way
 ถนนรถไฟ,wikidata,-,Q870,way
 ถนนราชบพิธ,wikidata,-,Q1513232,way
+ถนนราชพฤกษ์,wikidata,-,Q161117,way
 ถนนราชวงศ์,wikidata,-,Q691928,way
 ถนนร่วมจิตต์,wikidata,-,Q553270,way
+ถนนลาดพร้าว,wikidata,-,Q944588;Q13187,way
+ถนนลาดหญ้า,wikidata,-,Q944588;Q43238,way
 ถนนลำพู,wikidata,-,Q4918688,way
 ถนนวงเวียนยี่สิบสองกรกฎาคม,wikidata,-,Q3482893,way
 ถนนวังหลัง,wikidata,-,Q16138651,way
 ถนนวังเดิม,wikidata,-,Q3890749,way
+ถนนวัฒนธรรม,wikidata,-,Q11042,way
 ถนนวิทยุ,wikidata,-,Q729856,way
 ถนนสวนพลู,wikidata,-,Q159532,way
 ถนนสวนอ้อยซอยกลาง,wikidata,-,Q2936404,way
@@ -229,26 +260,37 @@ name,source,gender,wikidata,type
 ถนนหลังสวน,wikidata,-,Q977437,way
 ถนนอิสรภาพ,wikidata,-,Q16139509,way
 ถนนเจริญกรุง,wikidata,-,Q1760011,way
-ถนนเชียงใหม่,wikidata,-,Q233588,way
+ถนนเจริญนคร,wikidata,-,Q1760011;Q515,way
+ถนนเจริญรัถ,wikidata,-,Q7562091;Q1420,way
+ถนนเชียงใหม่,wikidata,-,Q52028,way
+ถนนเพลินจิต,wikidata,-,Q16515248,way
 ถนนเฟื่องนคร,wikidata,-,Q1760011,way
 ถนนเยาวพานิชย์,wikidata,-,Q2986261,way
+ถนนเลียบทางรถไฟ,wikidata,-,Q13015457,way
 ถนนเสรีไทย,wikidata,-,Q708957,way
 ถนนเสือป่า,wikidata,-,Q8000830,way
+ถนนเอกชัย,wikidata,-,Q16140459;Q13025775,way
 ถนนโยธา,wikidata,-,Q627364,way
 ถนนไมตรีจิตต์,wikidata,-,Q3482893,way
 ทางบูดาเปสต์,wikidata,-,Q1781,way
 ทางพิเศษเฉลิมมหานคร,wikidata,-,Q200250,way
 ทางเดินรอบสนามกีฬาจุฬาลงกรณ์มหาวิทยาลัย,wikidata,-,Q840852,way
+ท่าช้าง,wikidata,-,Q7378,way
 "พาร์ค พารากอน",wikidata,-,Q972334,relation
 ลานก้าวปริญญ์,wikidata,-,Q1054021,way
 ลานคนเมือง,wikidata,-,Q7112429,relation
 ลานจัตุรัสไปรษณีย์,wikidata,-,Q6676271,relation
 ลานพระศรีมหาโพธิ์,wikidata,-,Q321437,relation
+ลานพิพิธศิลป์,wikidata,-,Q29343840,way
 ลานมหาสังข์,wikidata,-,Q62792,relation
+ลานอะตอม,wikidata,-,Q9121,way
+ลานอักษรสิทธิ์,wikidata,-,Q5428916,way
 ลานอุทยานนันทนาการ,wikidata,-,Q184872,way
+ลานเกียร์,wikidata,-,Q143873,way
 ลานเสาธง,wikidata,-,Q134885,relation
 วงเวียนอนุสาวรีย์ประชาธิปไตย,wikidata,-,Q1186076,way
 วงเวียนเนินปาล์ม,wikidata,-,Q14080,way
+วงเวียนใหญ่,wikidata,-,Q1525;Q322481,way
 "สยามสแควร์ซอย 1",wikidata,-,Q1856401,way
 "สยามสแควร์ซอย 2",wikidata,-,Q1856401,way
 "สยามสแควร์ซอย 3",wikidata,-,Q1856401,way
@@ -311,6 +353,8 @@ name,source,gender,wikidata,type
 "ซอยนราธิวาสราชนครินทร์ 2",wikidata,M,Q4923648,way
 ซอยนันทา-โมซาร์ท,wikidata,M,Q254,way
 ซอยนายเลิศ,wikidata,M,Q6581491,way
+ซอยบ้านพระรามสี่,wikidata,M,Q312849,way
+ซอยพระยาพิเรนทร์,wikidata,M,Q888861,way
 ซอยพระยามหาอำมาตย์,wikidata,M,Q97223005,way
 ซอยพระยาศรี,wikidata,M,Q13017610,way
 ซอยพระยาสิงหเสนี,wikidata,M,Q25538332,way
@@ -362,11 +406,13 @@ name,source,gender,wikidata,type
 "ซอยเจริญกรุง 6",wikidata,M,Q16139555,way
 "ซอยเจริญกรุง 61",wikidata,M,Q141215946,way
 "ซอยเจริญกรุง 69",wikidata,M,Q60469469,way
+"ซอยเจริญนคร 21",wikidata,M,Q136071414,way
 ซอยเจ้าคุณเทเวศร,wikidata,M,Q20564533,way
 ซอยเจ้าพระยาศรีพิพัฒน์,wikidata,M,Q25538407,way
 ตรอกพญาเพชร,wikidata,M,Q13017623,way
 ตรอกภานุมาศ,wikidata,M,Q128502775,way
 ตรอกหม่อมเชื่อม,wikidata,M,Q13023188,way
+"ถนน ณ ระนอง",wikidata,M,Q13017576,way
 ถนนกัลยาณไมตรี,wikidata,M,Q4921952,way
 ถนนกำแพงเพชร,wikidata,M,Q1247122,way
 "ถนนกำแพงเพชร 1",wikidata,M,Q1247122,way
@@ -424,6 +470,7 @@ name,source,gender,wikidata,type
 ถนนศุภมิตร,wikidata,M,Q25538419,way
 ถนนสมเด็จพระปิ่นเกล้า,wikidata,M,Q2095882,way
 ถนนสมเด็จพระเจ้าตากสิน,wikidata,M,Q320097,way
+ถนนสมเด็จเจ้าพระยา,wikidata,M,Q310992;Q6636883;Q13022289;Q4918289,way
 ถนนสาธุประดิษฐ์,wikidata,M,Q138675582,way
 ถนนสารสิน,wikidata,M,Q982335,way
 ถนนสี่พระยา,wikidata,M,Q97446432,way
